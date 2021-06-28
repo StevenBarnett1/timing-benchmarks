@@ -34,7 +34,6 @@ describe ('addNums10', function () {
 
     // addNums ten times
     expect(sums.length).to.equal(10);
-
     expect(sums[0]).to.deep.equal(55); // Sum of nums 1 through 10
     expect(sums[1]).to.deep.equal(210); // Sum of nums 1 through 20
     expect(sums[2]).to.deep.equal(465); // Sum of nums 1 through 30
@@ -99,4 +98,3 @@ describe ('addManyNums10', function () {
   });
 
 });
-
