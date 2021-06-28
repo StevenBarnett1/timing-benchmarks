@@ -3,8 +3,7 @@ const [addNums, addManyNums] = require("./timing-benchmarks-pt1.js");
 
 // Runs `addNums` in 10 increasing increments
 function addNums10(increment) {
-
-  // Fill this in
+  
 }
 
 

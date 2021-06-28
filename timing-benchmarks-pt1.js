@@ -17,6 +17,4 @@ function addManyNums(n) {
   return sum
 }
 
-
-
 module.exports = [addNums, addManyNums];
